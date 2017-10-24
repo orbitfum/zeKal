@@ -80,6 +80,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Laravel {{$title}}
+                    <br/>Orhan!
                 </div>
 
                 <div class="links">
