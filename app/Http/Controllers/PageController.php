@@ -8,6 +8,6 @@ class PageController extends MainController
 {
      public function index(){
          self::$data['title'] .= ' | Home Page';
-         return view('welcome' , self::$data);
+         return view('content.home' , self::$data);
      }
 }
